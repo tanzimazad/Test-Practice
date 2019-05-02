@@ -1,2 +1,2 @@
 # Test-Practice
-Test practice repo
+Test practice repo for git-command demonstration
